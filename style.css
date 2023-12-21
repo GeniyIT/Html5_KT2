@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  border-radius: 15px;
+}
+
+button {
+  padding: 10px;
+  background-color: #149203;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+
+.deleteButton {
+  background-color: #ff0000;
+}
+
+table {
+  margin: 0 auto; 
+  margin-top: 15px;
+  width: 80%;
+  border: 2px solid black;
+  border-radius: 10px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 2px solid #000;
+  padding: 10px;
+}
